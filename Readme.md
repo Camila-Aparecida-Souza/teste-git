@@ -1,9 +1,6 @@
 # Aprendendo a usar o Git e Github
 ~
-~ Ainda tem muita coisa para se aprender no Git
+~ (~_~)  [^_^]   {'_'}
 ~
 ~
-~
-~
-~ Camila Aparecida de Souza
-#
+#Camila Aparecida de Souza
